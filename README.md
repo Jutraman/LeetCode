@@ -1,4 +1,4 @@
-# Leetcode
+# LeetCode
 My journal in LeetCode US
 
 ## Introduction
